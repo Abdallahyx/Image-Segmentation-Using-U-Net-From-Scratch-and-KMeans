@@ -1,7 +1,16 @@
-# Image-Segmentation-Using-U-Net-From-Scratch
+# Image-Segmentation-Using-U-Net-From-Scratch-&-KMeans
+
+
+Implementing a KMeans Model to Convert from RGB into Label Classes
+
+![image](https://user-images.githubusercontent.com/99212200/190898555-831b7386-3099-4625-b566-a441f06cd03a.png)
 
 
 Implementing a U-Net Model from scratch which is trained for Image Segmentation using CityScapes Dataset
+
+
+![image](https://user-images.githubusercontent.com/99212200/190898580-03120aad-5259-4b03-a709-8b7a3ad9a310.png)
+
 
 link :  https://www.cityscapes-dataset.com/
 
